@@ -27,7 +27,7 @@ By the end of this, developers should be able to:
 -   Write learning objectives that begin with an [imperative
     verb](https://en.wikipedia.org/wiki/Imperative_mood).
 -   Avoid objectives that start with "Use" or "Understand".
--   Rewrite objecives that begin with "Use" by inverting sentence structure.
+-   Rewrite objectives that begin with "Use" by inverting sentence structure.
 -   End each objective with a period.
 
 ## Instructions

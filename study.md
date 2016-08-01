@@ -32,11 +32,11 @@ your search to define SPAs?
 <!-- your answer here -->
 ```
 
-## EXAMPLE: Define "view" and "view-state" within the context of SPAs
+## EXAMPLE: Define "view" and "view-state"
 
-What do developers mean when they say "view"? Since view can have many meanings,
-what do developers mean when they say "view-state"? How do front-end "routers"
-help manage view-state?
+Within the context of SPAs, what do developers mean when they say "view"? Since
+view can have many meanings, what do developers mean when they say "view-state"?
+How do front-end "routers" help manage view-state?
 
 ```md
 <!-- your answer here -->
