@@ -1,43 +1,33 @@
-# EXAMPLE Study
+## Compare and Contrast ##
 
-Use your favorite search engine and the provided readings to research and
-respond to the following questions.
+Briefly describe the similarities and differences between `push`, `pop`,
+`unshift`, `shift` in Ruby and JavaScript.
 
-In your responses, be sure to cite any relevant sources you consulted in your
-search. We ask you to write responses in your own words in order to see how you
-process what you've read. Please do not respond with direct quotes from source
-material. Instead, digest what you've read and repeat it in your own voice.
+Include differences in return value and chain-ablilty
 
-## Required Readings
+| method                  | Differences | Similarities |
+|-------------------------|-------------|--------------|
+| `push`                  |             |              |
+| `<<` (compare to`push`) |             |              |
+| `pop`                   |             |              |
+| `unshift`               |             |              |
+| `shift`                 |             |              |
 
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
--   [Example Reading](https://www.github.com/ga-wdi-boston/example)
 
-## EXAMPLE: Define "single-page application" (SPA)
+## Repeat Lab for JS ##
 
-In your own words, define what a SPA is. In your answer, be sure to cite any
-relevant sources you consulted in your search.
+Working in [bin/lab.js](bin/lab.js) (storing the results of any access in `tmp`
+for display):
 
-```md
-<!-- your answer here -->
-```
+-   Assign `20` to the element at `length+1`.
+-   Access the 3rd element from the end of an array length of 5.
+-   Access element 9 for a length of 5 elements.
+-   Assign `[-12, -49]` to the 5th element from the end.
+-   Access all the elements starting at index 1.
 
-## EXAMPLE: Define "page" as used by non-developers
 
-What do users mean when they say "page"? What did you mean before your started
-your search to define SPAs?
+## Repeat Bonus for JS ##
 
-```md
-<!-- your answer here -->
-```
-
-## EXAMPLE: Define "view" and "view-state"
-
-Within the context of SPAs, what do developers mean when they say "view"? Since
-view can have many meanings, what do developers mean when they say "view-state"?
-How do front-end "routers" help manage view-state?
-
-```md
-<!-- your answer here -->
-```
+In [bin/lab.js](bin/lab.js), use a block initializer with new Array to create a
+JavaScript array with ten elements where elements are equal to their index
+multiplied by 2.
