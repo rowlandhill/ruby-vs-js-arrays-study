@@ -16,7 +16,7 @@ Include differences in return value and chain-ablilty
 
 ## Repeat Lab for JS ##
 
-Working in [bin/lab.js](bin/lab.js) (storing the results of any access in `tmp`
+Working in [bin/study.js](bin/study.js) (storing the results of any access in `tmp`
 for display):
 
 -   Assign `20` to the element at `length+1`.
@@ -28,6 +28,6 @@ for display):
 
 ## Repeat Bonus for JS ##
 
-In [bin/lab.js](bin/lab.js), use a block initializer with new Array to create a
+In [[bin/study.js](bin/study.js), use a block initializer with new Array to create a
 JavaScript array with ten elements where elements are equal to their index
 multiplied by 2.
