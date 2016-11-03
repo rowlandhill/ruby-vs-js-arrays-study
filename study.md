@@ -29,6 +29,6 @@ for display):
 
 ## Repeat Bonus for JS ##
 
-In [[bin/study.js](bin/study.js), use a block initializer with new Array to create a
+In [bin/study.js](bin/study.js), use a block initializer with new Array to create a
 JavaScript array with ten elements where elements are equal to their index
 multiplied by 2.
