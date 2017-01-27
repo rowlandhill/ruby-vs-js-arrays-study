@@ -1,10 +1,24 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Ruby vs JS Arrays Study
+# Ruby vs. JavaScript Arrays Study
 
 ## Prerequisites
 
--   [ruby-arrays](https://github.com/ga-wdi-boston/ruby-arrays)
+-   [Ruby](https://github.com/ga-wdi-boston/ruby)
+-   [Ruby Arrays](https://github.com/ga-wdi-boston/ruby-arrays)
+-   [JavaScript Reference Types](https://github.com/ga-wdi-boston/js-reference-types)
+-   [JavaScript Array Methods](https://github.com/ga-wdi-boston/js-array-methods)
+
+## Objectives
+
+By the end of this, developers should be able to:
+
+-   Write objectives that focus on demonstrating knowledge.
+-   Write learning objectives that begin with an [imperative
+    verb](https://en.wikipedia.org/wiki/Imperative_mood).
+-   Avoid objectives that start with "Use" or "Understand".
+-   Rewrite objectives that begin with "Use" by inverting sentence structure.
+-   End each objective with a period.
 
 ## Instructions
 
