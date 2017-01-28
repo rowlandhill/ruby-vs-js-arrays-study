@@ -15,37 +15,97 @@ material. Instead, digest what you've read and repeat it in your own voice.
 -   [JavaScript Reference Types](https://github.com/ga-wdi-boston/js-reference-types)
 -   [JavaScript Array Methods](https://github.com/ga-wdi-boston/js-array-methods)
 
-## Compare and Contrast
+## Array#push vs. Array.prototype.push()
 
-Briefly describe the similarities and differences between `push`, `pop`,
-`unshift`, `shift` in Ruby and JavaScript.
+What are the similarities and differences between Ruby's and JavaScript's `push`
+array method?
 
-Include differences in return value and chain-ablilty
+```md
+<!-- your answer here -->
+```
 
-| method                  | Differences | Similarities |
-|-------------------------|-------------|--------------|
-| `push`                  |             |              |
-| `<<` (compare to`push`) |             |              |
-| `pop`                   |             |              |
-| `unshift`               |             |              |
-| `shift`                 |             |              |
+## Array#pop vs. Array.prototype.pop()
 
+What are the similarities and differences between Ruby's and JavaScript's `pop`
+array method?
 
-## Repeat Lab for JavaScript
+```md
+<!-- your answer here -->
+```
 
-Working in [bin/study.js](bin/study.js) (storing the results of any access in `tmp`
-for display):
+## Array#shift vs. Array.prototype.shift()
 
--   Assign `20` to the element at `length+1`.
--   Access the 3rd element from the end of an array length of 5.
--   Access element 9 for a length of 5 elements.
--   Assign [-12, -49] to the range starting from 5th element from the end,
-    for a length of 3.
--   Access all the elements starting at index 1.
+What are the similarities and differences between Ruby's and JavaScript's
+`shift` array method?
 
+```md
+<!-- your answer here -->
+```
 
-## Repeat Bonus for JavaScript
+## Array#unshift vs. Array.prototype.unshift()
 
-In [bin/study.js](bin/study.js), use a block initializer with new Array to create a
-JavaScript array with ten elements where elements are equal to their index
-multiplied by 2.
+What are the similarities and differences between Ruby's and JavaScript's
+`unshift` array method?
+
+```md
+<!-- your answer here -->
+```
+
+## Array#map vs. Array.prototype.map
+
+Using Ruby's and JavaScript's `map` array methods, create a new array consisting
+of the squares of the existing array.
+
+Ruby:
+
+```ruby
+array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# your answer here
+```
+
+JavaScript:
+
+```javascript
+const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// your answer here
+```
+
+## Array#reduce vs. Array.prototype.reduce
+
+Using Ruby's and JavaScript's `reduce` array methods, find the product of the
+numbers in the given array.
+
+```ruby
+array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# your answer here
+```
+
+JavaScript:
+
+```javascript
+const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// your answer here
+```
+
+## Array#select vs. Array.protoype.filter
+
+Using Ruby's `select` array method and JavaScript's `filter` method, create a
+new array consisting of the odd numbers of the existing array.
+
+Ruby:
+
+```ruby
+array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# your answer here
+```
+
+JavaScript:
+
+```javascript
+const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// your answer here
+```
