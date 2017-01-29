@@ -51,7 +51,7 @@ What are the similarities and differences between Ruby's and JavaScript's
 <!-- your answer here -->
 ```
 
-## Array#map vs. Array.prototype.map
+## Array#map vs. Array.prototype.map()
 
 Using Ruby's and JavaScript's `map` array methods, create a new array consisting
 of the squares of the existing array.
@@ -72,7 +72,7 @@ const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // your answer here
 ```
 
-## Array#reduce vs. Array.prototype.reduce
+## Array#reduce vs. Array.prototype.reduce()
 
 Using Ruby's and JavaScript's `reduce` array methods, find the product of the
 numbers in the given array.
@@ -91,7 +91,7 @@ const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // your answer here
 ```
 
-## Array#select vs. Array.protoype.filter
+## Array#select vs. Array.protoype.filter()
 
 Using Ruby's `select` array method and JavaScript's `filter` method, create a
 new array consisting of the odd numbers of the existing array.
