@@ -18,7 +18,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 ## Array#push vs. Array.prototype.push()
 
 What are the similarities and differences between Ruby's and JavaScript's `push`
-array method?
+array methods?
 
 ```md
 <!-- your answer here -->
@@ -27,7 +27,7 @@ array method?
 ## Array#pop vs. Array.prototype.pop()
 
 What are the similarities and differences between Ruby's and JavaScript's `pop`
-array method?
+array methods?
 
 ```md
 <!-- your answer here -->
@@ -36,7 +36,7 @@ array method?
 ## Array#shift vs. Array.prototype.shift()
 
 What are the similarities and differences between Ruby's and JavaScript's
-`shift` array method?
+`shift` array methods?
 
 ```md
 <!-- your answer here -->
@@ -45,7 +45,7 @@ What are the similarities and differences between Ruby's and JavaScript's
 ## Array#unshift vs. Array.prototype.unshift()
 
 What are the similarities and differences between Ruby's and JavaScript's
-`unshift` array method?
+`unshift` array methods?
 
 ```md
 <!-- your answer here -->
