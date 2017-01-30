@@ -20,6 +20,14 @@ material. Instead, digest what you've read and repeat it in your own voice.
 What are the similarities and differences between Ruby's and JavaScript's `push`
 array methods?
 
+Similarities:
+
+```md
+<!-- your answer here -->
+```
+
+Differences:
+
 ```md
 <!-- your answer here -->
 ```
@@ -28,6 +36,14 @@ array methods?
 
 What are the similarities and differences between Ruby's and JavaScript's `pop`
 array methods?
+
+Similarities:
+
+```md
+<!-- your answer here -->
+```
+
+Differences:
 
 ```md
 <!-- your answer here -->
@@ -38,6 +54,14 @@ array methods?
 What are the similarities and differences between Ruby's and JavaScript's
 `shift` array methods?
 
+Similarities:
+
+```md
+<!-- your answer here -->
+```
+
+Differences:
+
 ```md
 <!-- your answer here -->
 ```
@@ -46,6 +70,14 @@ What are the similarities and differences between Ruby's and JavaScript's
 
 What are the similarities and differences between Ruby's and JavaScript's
 `unshift` array methods?
+
+Similarities:
+
+```md
+<!-- your answer here -->
+```
+
+Differences:
 
 ```md
 <!-- your answer here -->
@@ -76,6 +108,8 @@ const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 Using Ruby's and JavaScript's `reduce` array methods, find the product of the
 numbers in the given array.
+
+Ruby:
 
 ```ruby
 array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
