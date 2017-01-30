@@ -1,4 +1,4 @@
-# Ruby vs. JavaScript Arrays Study
+# Ruby vs. JavaScript: Arrays Study
 
 Use your favorite search engine and the provided readings to research and
 respond to the following questions.
