@@ -13,12 +13,9 @@
 
 By the end of this, developers should be able to:
 
--   Write objectives that focus on demonstrating knowledge.
--   Write learning objectives that begin with an [imperative
-    verb](https://en.wikipedia.org/wiki/Imperative_mood).
--   Avoid objectives that start with "Use" or "Understand".
--   Rewrite objectives that begin with "Use" by inverting sentence structure.
--   End each objective with a period.
+-   Compare and contrast Ruby's and JavaScript's array methods.
+-   Compare and contrast array manipulation in Ruby and JavaScript.
+-   Compare and contrast Ruby's blocks with JavaScript's callback functions.
 
 ## Instructions
 
