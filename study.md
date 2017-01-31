@@ -18,7 +18,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 ## Array#push vs. Array.prototype.push()
 
 What are the similarities and differences between Ruby's and JavaScript's `push`
-array methods?
+Array methods?
 
 Similarities:
 
@@ -35,7 +35,7 @@ Differences:
 ## Array#pop vs. Array.prototype.pop()
 
 What are the similarities and differences between Ruby's and JavaScript's `pop`
-array methods?
+Array methods?
 
 Similarities:
 
@@ -52,7 +52,7 @@ Differences:
 ## Array#shift vs. Array.prototype.shift()
 
 What are the similarities and differences between Ruby's and JavaScript's
-`shift` array methods?
+`shift` Array methods?
 
 Similarities:
 
@@ -69,7 +69,7 @@ Differences:
 ## Array#unshift vs. Array.prototype.unshift()
 
 What are the similarities and differences between Ruby's and JavaScript's
-`unshift` array methods?
+`unshift` Array methods?
 
 Similarities:
 
@@ -85,7 +85,7 @@ Differences:
 
 ## Array#map vs. Array.prototype.map()
 
-Using Ruby's and JavaScript's `map` array methods, create a new array consisting
+Using Ruby's and JavaScript's `map` Array methods, create a new array consisting
 of the squares of the existing array.
 
 Ruby:
@@ -106,7 +106,7 @@ const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 ## Array#reduce vs. Array.prototype.reduce()
 
-Using Ruby's and JavaScript's `reduce` array methods, find the product of the
+Using Ruby's and JavaScript's `reduce` Array methods, find the product of the
 numbers in the given array.
 
 Ruby:
@@ -127,7 +127,7 @@ const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 ## Array#select vs. Array.protoype.filter()
 
-Using Ruby's `select` array method and JavaScript's `filter` method, create a
+Using Ruby's `select` Array method and JavaScript's `filter` method, create a
 new array consisting of the odd numbers of the existing array.
 
 Ruby:

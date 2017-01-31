@@ -13,7 +13,7 @@
 
 By the end of this, developers should be able to:
 
--   Compare and contrast Ruby's and JavaScript's array methods.
+-   Compare and contrast Ruby's and JavaScript's Array methods.
 -   Compare and contrast array manipulation in Ruby and JavaScript.
 -   Compare and contrast Ruby's blocks with JavaScript's callback functions.
 
